@@ -4,7 +4,7 @@
 
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Sranu2109/Responsive-E-Commerce-Store.svg?logo=git&style=social)](https://sranu2109.github.io/Responsive-E-Commerce-Store/)
 
-To Run:- [click here](https://sranu2109.github.io/Responsive-E-Commerce-Store/)
+To Run:- [https://responsive-ecommerce-shop.netlify.app/](https://responsive-ecommerce-shop.netlify.app/)
 
 ## Features Included
 
